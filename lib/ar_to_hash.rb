@@ -1,5 +1,5 @@
 require "ar_to_hash/version"
-require "to_gunma/extensions.rb"
+require "ar_to_hash/extensions.rb"
 
 module ArToHash
   # Your code goes here...
