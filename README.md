@@ -1,6 +1,6 @@
 # ArToHash
 
-Add to_hash method to ActiveRecord::Base.
+Add `to_hash` method to ActiveRecord::Base.
 
 ## Installation
 
